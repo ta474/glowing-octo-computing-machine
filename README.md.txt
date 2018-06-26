@@ -1,3 +1,3 @@
-[My First File](File1.md)
-[My Second File](File2.md)
-[My third file](File3.md)
+[file 1](File1.md)
+[file 2](File2.md)
+[file 3](File3.md)
